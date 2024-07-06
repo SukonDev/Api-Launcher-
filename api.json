@@ -1,0 +1,8 @@
+{
+    "clientVersionCode": 6,
+    "gameFilesVersionCode": 1,
+    "URL_GAME_FILES" : "http://127.0.0.1/game.rar",
+    "URL_GAME_FILES_UPD" : "http://127.0.0.1/files_upd.rar",
+    "URL_FORUM": "http://127.0.0.1",
+    "URL_CLIENT": "http://127.0.0.1/launcher.apk"
+}
