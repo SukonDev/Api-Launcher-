@@ -1,11 +1,11 @@
 [
 	{
 		"ip": "85.203.4.162",
-		"port": 7777,
+		"port": 8888,
 		"id": 1,
 		"color":"ff2624", 
 		"action": 1,
 		"key":"",
-		"name":"Server Name"
+		"name":"Lucky City"
 	}
 ]
